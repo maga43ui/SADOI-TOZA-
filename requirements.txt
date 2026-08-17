@@ -1,6 +1,7 @@
-aiogram
-demucs
+numpy<2.0.0
 torch
 torchaudio
+aiogram
+demucs
 nest_asyncio
 aiohttp
