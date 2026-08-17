@@ -2,3 +2,5 @@ aiogram
 demucs
 torch
 torchaudio
+nest_asyncio
+aiohttp
